@@ -7,7 +7,7 @@ import org.junit.Test;
 /**
  * Diese Klasse dient dazu, zu testen, ob in Eclipse die Assertions aktiviert
  * sind.
- * 
+ * test
  * @author SE2-Team
  * @version SoSe 2015
  */
